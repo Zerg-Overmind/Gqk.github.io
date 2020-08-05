@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qunakai Gao"
+title                    : "Quankai Gao"
 title_separator          : "-"
 name                     : &name "Quankai Gao"
 description              : &description "personal description"
