@@ -8,7 +8,7 @@ author_profile: true
 <a href="http://www.lmars.whu.edu.cn/" target="_blank">LIESMARS</a><br>
 <a href="https://www.whu.edu.cn/information-technology" target="_blank">Wuhan University</a><br>
 
-I am currently a master student majoring cmoputre vision under the supervision of <a href="http://www.captain-whu.com/xia.html" target="_blank"> Prof.Gui-Song Xia</a><br>in CAPTAIN group. Before that, I obtained my bachelor's degree in the school of Automation Science and Engineering, <a href="https://www.scut.edu.cn/" target="_blank">South China University of Technology </a><br>in 2019.
+I am currently a master student majoring cmoputre vision under the supervision of <a href="http://www.captain-whu.com/xia.html" target="_blank"> Prof.Gui-Song Xia</a>in CAPTAIN group. Before that, I obtained my bachelor's degree in the school of Automation Science and Engineering, <a href="https://www.scut.edu.cn/" target="_blank">South China University of Technology </a>in 2019.
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
