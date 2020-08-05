@@ -1,8 +1,9 @@
 ---
-layout: archive
-title: "Projects"
-permalink: /posts/project2
-author_profile: true
+title: 'Graph Matching with Feedback'
+date: 2020-3
+permalink: /posts/project2/
+tags:
+  - projects
 ---
 
 ###  **Quankai Gao**, Fudong Wang, Guisong Xia. Structure Guided Learning Graph Matching, under review, 2020.<a href="https://zerg-overmind.github.io/files/SGLGM.pdf" target="_blank">[PDF]</a>
