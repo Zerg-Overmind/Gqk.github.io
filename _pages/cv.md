@@ -11,7 +11,7 @@ redirect_from:
 ### Education
 * M.Eng., Wuhan University, 2019-2022(expected)
 * B.Eng., South China University of Technology, 2015-2019
-* Summer school, Sydney University of science and technology，2017.
+* Summer school, Sydney University of Science and Technology，2017.
 
 ### Work experience
 * 2018.7 - 2018.9: Research intern
