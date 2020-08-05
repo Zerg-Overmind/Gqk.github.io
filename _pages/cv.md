@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<a href="https://Zerg-Overmind.github.io/assets/Quankai_Gao_s_CV.pdf" target="_blank">CV</a></p>
 ### Education
 * M.Eng., Wuhan University, 2019-2022(expected)
 * B.Eng., South China University of Technology, 2015-2019
