@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qunakia Gao"
+title                    : "Qunakai Gao"
 title_separator          : "-"
 name                     : &name "Quankai Gao"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Quankai Gao"
   avatar           : "me.jpg"
-  bio              : "Master Student@Wuhna University"
+  bio              : "Master Student@Wuhan University"
   location         : "Wuhan, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
