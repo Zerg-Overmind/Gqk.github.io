@@ -16,13 +16,15 @@ I have a broad interest in the theory and applications of **Machine Learning** a
 
 ---
 
-### Research Interests
+### Research Interests:
 * Machine Learning
 * Optimization
 * Computer Vision
 * Graph Matching
+
 ---
-### Contact
+
+### Contact:
 - Email: quankaigao@whu.edu.cn
 ![Editing a markdown file for a talk](/images/Sydney.jpg)
 
