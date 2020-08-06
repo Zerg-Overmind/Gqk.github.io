@@ -6,7 +6,7 @@ author_profile: true
 ---
 <span style="font-weight:bold">Master Student(EE)</span><br>
 <a href="http://www.lmars.whu.edu.cn/" target="_blank">LIESMARS</a><br>
-<a href="https://www.whu.edu.cn/information-technology" target="_blank">Wuhan University</a><br>
+<a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a><br>
 
 ---
 
