@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 {% include base_path %}
-<a href="https://Zerg-Overmind.github.io/files/Quankai_Gao_s_CV.pdf" target="_blank">CV</a>
+[<span style="color:orange">**Curriculum Vitae** </span>](/files/Quankai_Gao_s_CV.pdf)
 ### Education
 * M.Eng., Wuhan University, 2019-2022(expected)
 * B.Eng., South China University of Technology, 2015-2019
