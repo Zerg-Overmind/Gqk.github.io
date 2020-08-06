@@ -12,7 +12,7 @@ author_profile: true
 
 I am currently a master student majoring computer vision at WHU. I am fortunate to be advised by <a href="http://www.captain-whu.com/xia.html" target="_blank"> Prof.Gui-Song Xia</a> in CAPTAIN group. Before that, I obtained my bachelor's degree in the school of Automation Science and Engineering, <a href="https://www.scut.edu.cn/" target="_blank"> South China University of Technology </a>in 2019.
 
-I have a broad interest in the theory and applications of machine learning and optimization.
+I have a broad interest in the theory and applications of **Machine Learning** and **Optimization**.
 
 ---
 
