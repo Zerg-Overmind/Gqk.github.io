@@ -3,7 +3,11 @@ permalink: /
 title: "Quankai Gao"
 excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
 <span style="font-weight:bold">Master Student(EE)</span><br>
 <a href="https://www.whu.edu.cn/" target="_blank">Wuhan University</a><br>
 
