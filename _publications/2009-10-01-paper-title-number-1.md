@@ -8,6 +8,6 @@ paperurl: 'coming soon'
 citation: 'Quankai Gao, etc. (2021). &quot;Paper Title Number 1.&quot; <i>CVPR 2021</i>. 1(1).'
 ---
 
-[Download paper here](coming soon)
+[coming soon]
 
 Recommended citation: Quankai Gao, etc. Deep Graph Matching under Quadratic Constraint. <i>CVPR</i>. 2021.
