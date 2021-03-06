@@ -25,6 +25,8 @@ I have a broad interest in the theory and applications of **Machine Learning** a
 * Graph Matching in Computer Vision
 
 ---
+### News:
+* 2021.03 One paper is accepted to **CVPR 2021**.
 
 ### Contact:
 - Email: quankaigao@whu.edu.cn
